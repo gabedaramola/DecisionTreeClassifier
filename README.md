@@ -1,2 +1,2 @@
 # DecisionTreeClassifier
-scikit-learn decision tree (boy or girl)
+scikit-learn decision tree classifier
